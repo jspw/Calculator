@@ -1,2 +1,2 @@
 # Calculator
-A calculator With Graphical User Interface using FX GUI in JAVA
+A calculator With Graphical User Interface using Jframe GUI in JAVA
